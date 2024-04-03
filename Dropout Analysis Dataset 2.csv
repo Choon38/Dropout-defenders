@@ -1,0 +1,218 @@
+Name,Age,Gender,Caste,School,Standard,Area,Dropout,Attendance_Percent
+Aarav Sharma,12,Male, General, Primary,5, Delhi, No,73
+Sia Patel,14,Female, OBC, Upper Primary,8, Maharashtra, Yes,92
+Kiran Singh,11,Male, ST, Secondary,7, Uttar Pradesh, No,78
+Meera Gupta,13,Female, SC, Higher Secondary,10, Tamil Nadu, Yes,95
+Rahul Kumar,15,Male, General, Secondary,9, Kerala, No,89
+Priya Mishra,10,Female, General, Primary,4, Rajasthan, No,55
+Aryan Yadav,12,Male, SC, Upper Primary,6, Madhya Pradesh, Yes,80
+Ishaan Khanna,16,Male, SC, Secondary,9, Karnataka, No,94
+Ananya Rajput,14,Female, General, Higher Secondary,11, Chhattisgarh, No,93
+Aradhya Dixit,13,Female, ST, Secondary,8, Gujarat, Yes,79
+Yash Gupta,8,Male, OBC, Primary,3, West Bengal, No,68
+Sara Kumar,12,Male, OBC, Upper Primary,7, Bihar, No,88
+Advik Sharma,16,Male, ST, Secondary,10, Odisha, No,82
+Anika Choudhary,10,Male, General, Primary,4, Jharkhand, No,71
+Kabir Verma,14,Male, ST, Secondary,8, Haryana, No,85
+Navya Patel,11,Male, OBC, Upper Primary,5, Punjab, No,76
+Arjun Sharma,15,Male, General, Higher Secondary,11, Assam, No,96
+Pihu Das,9,Male, General, Primary,4, Kerala, Yes,73
+Sahil Singh,13,Male, ST, Secondary,7, Tamil Nadu, No,45
+Tanya Gupta,12,Female, General, Secondary,8, Delhi, Yes,74
+Aahana Sharma,14,Male, OBC, Primary,5, Uttar Pradesh, No,90
+Shaurya Gupta,12,Female, General, Upper Primary,6, Maharashtra, No,77
+Vihaan Yadav,11,Male, General, Secondary,7, Rajasthan, Yes,72
+Pari Verma,15,Female, ST, Higher Secondary,10, Madhya Pradesh, Yes,91
+Aadi Gupta,13,Female, OBC, Secondary,8, Tamil Nadu, No,87
+Anvi Mishra,10,Female, SC, Primary,4, Punjab, Yes,75
+Ahaan Sharma,12,Female, SC, Upper Primary,6, Karnataka, No,69
+Myra Patel,16,Female, OBC, Secondary,9, Kerala, No,84
+Aaradhya Singh,14,Female, OBC, Higher Secondary,11, Uttar Pradesh, No,83
+Aarya Reddy,12,Female, General, Primary,5, Telangana, No,67
+Advait Kumar,13,Male, ST, Upper Primary,6, Bihar, No,71
+Amaira Patel,11,Female, General, Secondary,7, Gujarat, No,78
+Aarush Sharma,14,Male, General, Higher Secondary,10, Uttarakhand, No,87
+Aanya Verma,10,Female, ST, Primary,4, Madhya Pradesh, No,63
+Anvi Yadav,12,Male, ST, Upper Primary,6, Haryana, No,70
+Arnav Kapoor,16,Female, SC, Secondary,9, Maharashtra, No,96
+Avni Choudhary,14,Male, General, Higher Secondary,11, Jharkhand, No,92
+Aashvi Sharma,12,Female, General, Secondary,8, Tamil Nadu, No,44
+Aditya Gupta,15,Male, ST, Primary,5, Karnataka, No,68
+Aadya Singh,11,Female, General, Upper Primary,6, West Bengal, No,73
+Advik Reddy,9,Male, General, Primary,4, Andhra Pradesh, No,65
+Anika Yadav,13,Female, ST, Secondary,7, Chhattisgarh, No,82
+Avyukt Verma,12,Male, General, Higher Secondary,9, Odisha, No,74
+Arya Choudhary,14,Female, General, Higher Secondary,10, Rajasthan, No,88
+Ansh Kapoor,15,Male, General, Upper Primary,6, Punjab, No,76
+Aditi Kumar,10,Female, ST, Primary,5, Uttar Pradesh, No,71
+Ayush Yadav,11,Male, General, Secondary,7, Bihar, No,78
+Anvi Patel,13,Female, General, Higher Secondary,10, Madhya Pradesh, No,86
+Advaita Verma,12,Female, General, Secondary,8, Gujarat, Yes,34
+Aayansh Gupta,9,Female, SC, Upper Primary,6, Chhattisgarh, No,69
+Amaira Singh,16,Female, General, Secondary,7, Jharkhand, Yes,77
+Arnav Patel,15,Female, General, Higher Secondary,11, Haryana, No,75
+Aanya Reddy,11,Female, ST, Primary,4, Telangana, No,66
+Aarav Khanna,14,Female, General, Upper Primary,5, Delhi, No,56
+Anika Choudhary,12,Female, General, Secondary,7, Maharashtra, Yes,81
+Advaita Kapoor,13,Male, OBC, Higher Secondary,10, Punjab, No,79
+Amaira Khanna,12,Female, General, Primary,5, Uttar Pradesh, No,76
+Aarav Sharma,15,Male, ST, Secondary,8, Rajasthan, No,87
+Anika Patel,10,Female, SC, Upper Primary,6, Tamil Nadu, No,71
+Aarya Rajput,14,Male, General, Secondary,7, Kerala, No,78
+Aaradhya Gupta,9,Female, General, Primary,4, Karnataka, No,67
+Arjun Yadav,13,Male, OBC, Secondary,8, Maharashtra, No,53
+Ananya Kapoor,12,Female, General, Higher Secondary,9, Madhya Pradesh, No,75
+Aadhya Verma,16,Male, General, Secondary,7, Gujarat, Yes,73
+Aadi Choudhary,14,Male, ST, Upper Primary,6, Rajasthan, No,70
+Amaira Yadav,11,Male, General, Higher Secondary,11, Punjab, Yes,79
+Aahana Rajput,15,Male, General, Secondary,8, Uttar Pradesh, No,35
+Aashvi Singh,12,Male, SC, Primary,4, Delhi, Yes,76
+Anshika Das,13,Male, General, Higher Secondary,11, West Bengal, Yes,81
+Arjun Khanna,16,Male, General, Upper Primary,6, Tamil Nadu, No,85
+Anvi Kapoor,11,Female, SC, Secondary,7, Maharashtra, Yes,54
+Advaita Choudhary,12,Male, OBC, Primary,5, Uttar Pradesh, No,72
+Aarush Verma,14,Male, General, Secondary,8, Rajasthan, Yes,90
+Aditi Sharma,10,Female, General, Higher Secondary,9, Karnataka, No,79
+Anika Yadav,13,Female, ST, Secondary,8, Tamil Nadu, No,86
+Aadhya Patel,11,Female, General, Upper Primary,6, Madhya Pradesh, No,75
+Aanya Khanna,15,Female, General, Primary,4, Chhattisgarh, No,69
+Aarya Verma,12,Male, OBC, Higher Secondary,9, Gujarat, No,74
+Advika Yadav,16,Female, General, Secondary,8, Kerala, No,89
+Arnav Choudhary,14,Female, ST, Upper Primary,5, Jharkhand, No,46
+Amaira Singh,13,Female, OBC, Higher Secondary,10, Bihar, No,81
+Advaita Sharma,12,Female, General, Secondary,7, Uttar Pradesh, No,78
+Ansh Patel,15,Female, SC, Secondary,8, Maharashtra, No,87
+Anvi Rajput,11,Female, General, Primary,5, Gujarat, No,75
+Arnav Khanna,9,Female, OBC, Secondary,7, Haryana, No,68
+Aashvi Kapoor,13,Female, General, Primary,4, Rajasthan, Yes,71
+Aadhya Yadav,14,Female, General, Higher Secondary,11, Tamil Nadu, No,80
+Advik Patel,10,Male, SC, Upper Primary,6, Kerala, Yes,76
+Anika Choudhary,16,Female, General, Secondary,8, Delhi, No,65
+Aarya Yadav,14,Male, OBC, Upper Primary,5, Uttar Pradesh, No,82
+Amaira Khanna,11,Male, General, Higher Secondary,10, Maharashtra, No,79
+Arnav Kapoor,9,Male, SC, Primary,4, Karnataka, No,73
+Aarav Choudhary,15,Male, ST, Secondary,7, West Bengal, No,88
+Anika Verma,13,Female, General, Upper Primary,6, Telangana, No,76
+Advaita Yadav,12,Male, OBC, Secondary,8, Andhra Pradesh, No,70
+Amaira Rajput,14,Female, SC, Higher Secondary,11, Telangana, No,89
+Aadhya Patel,10,Female, SC, Primary,5, Karnataka, No,76
+Aanya Choudhary,12,Female, General, Higher Secondary,9, Tamil Nadu, No,56
+Aarav Kapoor,16,Male, SC, Secondary,8, Kerala, No,86
+Anshika Das,14,Female, General, Upper Primary,6, Maharashtra, No,78
+Arjun Khanna,12,Male, General, Primary,4, Uttar Pradesh, No,71
+Advik Yadav,11,Male, OBC, Secondary,7, Tamil Nadu, No,75
+Aadhya Verma,13,Female, General, Higher Secondary,11, Karnataka, No,83
+Amaira Yadav,15,Female, General, Upper Primary,5, Andhra Pradesh, No,79
+Aarav Choudhary,12,Male, General, Secondary,8, Telangana, No,77
+Anika Patel,16,Male, ST, Higher Secondary,9, Kerala, No,88
+Aanya Reddy,14,Male, General, Primary,4, Karnataka, Yes,72
+Aadhya Choudhary,11,Male, General, Secondary,7, Tamil Nadu, No,76
+Advaita Khanna,10,Male, OBC, Primary,5, Maharashtra, No,69
+Aarya Verma,13,Male, General, Upper Primary,6, Kerala, No,75
+Anika Rajput,12,Female, General, Secondary,8, Andhra Pradesh, No,80
+Arnav Kapoor,16,Male, ST, Secondary,9, Telangana, No,92
+Aanya Yadav,14,Female, General, Higher Secondary,10, Karnataka, No,89
+Aarush Sharma,15,Male, OBC, Upper Primary,5, Tamil Nadu, No,81
+Anvi Reddy,11,Female, General, Higher Secondary,11, Maharashtra, No,79
+Advik Kumar,10,Male, General, Primary,4, Andhra Pradesh, No,73
+Amaira Patel,12,Female, OBC, Secondary,7, Gujarat, No,87
+Aarush Sharma,13,Male, General, Upper Primary,6, Rajasthan, No,75
+Anika Khanna,16,Female, OBC, Secondary,8, Madhya Pradesh, No,85
+Avyaan Yadav,14,Male, General, Higher Secondary,9, Uttar Pradesh, No,90
+Anika Choudhary,12,Female, ST, Primary,5, Haryana, No,68
+Amaira Kapoor,10,Male, General, Secondary,7, Punjab, Yes,71
+Advik Khanna,15,Female, OBC, Higher Secondary,11, Tamil Nadu, Yes,88
+Anvi Reddy,11,Male, OBC, Upper Primary,6, Karnataka, No,75
+Aarav Yadav,13,Male, OBC, Secondary,8, Maharashtra, No,79
+Aadhya Choudhary,9,Male, General, Primary,4, Gujarat, No,68
+Arjun Verma,12,Male, OBC, Upper Primary,5, Madhya Pradesh, Yes,71
+Anvi Patel,16,Female, General, Higher Secondary,9, Rajasthan, No,80
+Aarush Khanna,14,Female, General, Secondary,7, Haryana, Yes,85
+Aarya Kapoor,13,Female, General, Primary,5, Punjab, No,75
+Advik Das,12,Female, General, Secondary,8, Delhi, Yes,72
+Aanya Choudhary,15,Female, ST, Upper Primary,6, Uttar Pradesh, No,81
+Arnav Yadav,14,Female, OBC, Higher Secondary,11, Tamil Nadu, No,89
+Aashvi Khanna,12,Female, General, Secondary,7, Kerala, Yes,78
+Amaira Sharma,16,Female, ST, Higher Secondary,9, Karnataka, No,86
+Advaita Choudhary,14,Male, General, Secondary,8, Maharashtra, Yes,79
+Aarav Kapoor,10,Male, ST, Primary,4, Tamil Nadu, No,70
+Aadhya Patel,11,Female, General, Secondary,7, Gujarat, Yes,73
+Kavya Singh,9,Female, General, Higher Secondary,11, Rajasthan, No,66
+Aditya Kumar,13,Male, OBC, Secondary,8, Karnataka, Yes,74
+Sanvi Patel,12,Female, OBC, Upper Primary,6, Gujarat, No,76
+Arjun Sharma,16,Male, General, Primary,4, Maharashtra, No,91
+Aarohi Yadav,14,Male, OBC, Secondary,7, Uttar Pradesh, No,70
+Sara Khanna,11,Male, General, Higher Secondary,10, Haryana, No,77
+Advay Verma,15,Male, General, Upper Primary,6, Tamil Nadu, No,85
+Aanya Reddy,14,Male, OBC, Primary,5, Andhra Pradesh, No,83
+Aarush Kapoor,12,Male, ST, Higher Secondary,9, Telangana, No,80
+Ishani Choudhary,11,Female, OBC, Primary,4, Madhya Pradesh, Yes,73
+Kabir Yadav,16,Male, ST, Secondary,7, Bihar, Yes,89
+Aradhya Verma,13,Female, OBC, Higher Secondary,10, Jharkhand, No,79
+Advait Patel,12,Female, OBC, Secondary,8, Chhattisgarh, Yes,76
+Anika Choudhary,15,Female, General, Primary,5, West Bengal, Yes,88
+Advik Khanna,14,Male, General, Upper Primary,6, Punjab, Yes,87
+Anaya Yadav,11,Male, General, Secondary,7, Assam, Yes,71
+Arnav Gupta,9,Male, OBC, Higher Secondary,9, Odisha, Yes,68
+Aarna Rajput,12,Male, General, Upper Primary,6, Manipur, Yes,78
+Arjun Choudhary,16,Male, General, Secondary,8, Meghalaya, Yes,92
+Anika Khanna,13,Male, OBC, Primary,5, Mizoram, No,83
+Aahana Yadav,15,Male, General, Secondary,7, Nagaland, No,81
+Advik Kapoor,11,Male, ST, Higher Secondary,11, Tripura, No,75
+Aarav Patel,14,Male, General, Upper Primary,6, Sikkim, No,86
+Anvi Sharma,13,Male, General, Secondary,7, Arunachal Pradesh, No,79
+Advay Yadav,12,Female, General, Primary,4, Goa, No,74
+Amaira Khanna,15,Female, OBC, Higher Secondary,11, Himachal Pradesh, No,82
+Anaya Verma,10,Female, General, Primary,5, Uttarakhand, No,71
+Arnav Choudhary,14,Female, ST, Upper Primary,6, Puducherry, No,87
+Advaita Reddy,12,Female, ST, Secondary,8, Chandigarh, No,80
+Aarav Patel,16,Male, General, Secondary,7, Lakshadweep, No,89
+Ishani Sharma,13,Female, ST, Primary,4, Daman and Diu, No,82
+Aanya Yadav,11,Female, General, Higher Secondary,9, Dadra and Nagar Haveli, Yes,75
+Kabir Kapoor,15,Male, SC, Secondary,8, Ladakh, No,86
+Aradhya Choudhary,14,Male, SC, Higher Secondary,10, Jammu and Kashmir, Yes,91
+Advik Patel,12,Female, General, Upper Primary,5, Ladakh, No,77
+Anaya Khanna,11,Male, OBC, Primary,4, Ladakh, Yes,78
+Aarav Yadav,16,Male, General, Secondary,7, Ladakh, No,87
+Sanvi Kapoor,13,Male, General, Higher Secondary,9, Ladakh, Yes,80
+Aarush Khanna,12,Male, General, Upper Primary,6, Ladakh, Yes,76
+Aadhya Verma,10,Female, OBC, Primary,5, Ladakh, No,69
+Kavya Yadav,14,Male, General, Secondary,7, Ladakh, Yes,83
+Aditya Choudhary,15,Male, General, Higher Secondary,10, Ladakh, Yes,88
+Sanvi Sharma,13,Female, ST, Secondary,8, Ladakh, No,82
+Arjun Khanna,12,Female, OBC, Primary,4, Ladakh, No,75
+Aarohi Patel,11,Female, General, Upper Primary,5, Ladakh, No,71
+Advay Khanna,14,Male, General, Secondary,7, Ladakh, Yes,86
+Ishani Choudhary,15,Male, General, Primary,4, Ladakh, Yes,84
+Kabir Yadav,16,Female, ST, Secondary,8, Ladakh, Yes,89
+Aradhya Verma,13,Male, OBC, Higher Secondary,9, Ladakh, No,83
+Advait Patel,12,Female, General, Upper Primary,6, Ladakh, Yes,76
+Anika Choudhary,11,Female, ST, Secondary,7, Ladakh, No,72
+Aanya Reddy,15,Male, General, Primary,5, Ladakh, No,88
+Aarush Kapoor,14,Male, SC, Secondary,8, Ladakh, No,81
+Ishani Sharma,13,Female, SC, Primary,4, Ladakh, No,77
+Advik Khanna,12,Female, General, Higher Secondary,11, Ladakh, No,74
+Anaya Verma,14,Male, General, Secondary,7, Ladakh, No,80
+Arnav Choudhary,16,Male, ST, Primary,5, Ladakh, No,83
+Advaita Reddy,15,Female, General, Upper Primary,6, Ladakh, No,86
+Aarav Patel,10,Male, General, Secondary,8, Ladakh, No,71
+Anvi Sharma,12,Female, General, Higher Secondary,9, Ladakh, No,75
+Advay Yadav,13,Male, OBC, Primary,4, Ladakh, No,79
+Amaira Khanna,11,Female, General, Secondary,7, Ladakh, No,73
+Anaya Verma,9,Female, ST, Upper Primary,6, Ladakh, No,68
+Kabir Kapoor,14,Female, General, Higher Secondary,10, Ladakh, No,84
+Aradhya Choudhary,12,Female, SC, Primary,5, Ladakh, Yes,77
+Advik Patel,15,Female, General, Secondary,8, Ladakh, No,86
+Anika Khanna,13,Female, SC, Upper Primary,5, Ladakh, No,81
+Aahana Yadav,16,Female, OBC, Secondary,7, Ladakh, Yes,88
+Advik Kapoor,12,Female, General, Higher Secondary,11, Ladakh, Yes,72
+Aarav Patel,15,Male, General, Upper Primary,6, Ladakh, No,85
+Anvi Sharma,14,Male, ST, Secondary,7, Ladakh, No,77
+Advay Yadav,11,Male, General, Primary,5, Ladakh, No,71
+Amaira Khanna,10,Female, ST, Higher Secondary,11, Ladakh, Yes,69
+Anaya Verma,16,Female, General, Primary,4, Ladakh, No,86
+Arnav Choudhary,12,Male, OBC, Upper Primary,6, Ladakh, No,80
+Advaita Reddy,14,Male, General, Secondary,8, Ladakh, Yes,75
+Aarav Patel,11,Female, ST, Secondary,7, Ladakh, No,71
+Anvi Sharma,15,Female, General, Secondary,7, Ladakh, Yes,84
+Advay Yadav,13,Male, OBC, Primary,5, Ladakh, No,79
