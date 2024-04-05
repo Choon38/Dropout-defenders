@@ -1,0 +1,60 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style the container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Style the headings */
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #444;
+}
+
+/* Style the paragraph */
+p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Style the cards */
+.card {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
